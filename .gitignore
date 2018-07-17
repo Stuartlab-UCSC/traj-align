@@ -1,0 +1,22 @@
+*.jpg
+.idea*
+.cache*
+#temporary outputs
+trash*
+#data for alignments
+data/*
+#alignment output
+*.out
+# javascript output files
+*.js
+
+align/local_alignment/bin/mcl/share/*
+
+*.DS_Store
+._*
+*.pyc
+#Data files
+*.ort
+*.nif
+
+*.tar.gz

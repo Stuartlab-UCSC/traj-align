@@ -1,0 +1,1 @@
+Functions that produce a node-node similarity.

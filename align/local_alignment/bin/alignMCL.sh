@@ -1,0 +1,1 @@
+/home/duncan/trajectory/alignment/AlignMCL-1.2/alignMCL.sh

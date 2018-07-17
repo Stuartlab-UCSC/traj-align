@@ -1,0 +1,1 @@
+Python package for local alignment of trajectories.
